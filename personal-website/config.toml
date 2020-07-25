@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "jp"
+title = "Norihito Ishida's personal website"
+theme = "hugo-coder"
