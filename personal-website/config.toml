@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Norihito Ishida"
-    info = "Machine Learning Engineer, Data analyst"
+    info = "Machine Learning Engineer, Data Analyst"
     description = "Norihito Ishida's personal website"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"

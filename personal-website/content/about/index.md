@@ -25,6 +25,7 @@ I'm a machine learning engineer, data analyst, and ex-sheet metal engineer.
 
 ### Favorites
 - Jazz, Funk, R&B, Soul, Neo Soul, etc.
+- Manga
 - Uduki koh (卯月コウ) : [Youtube](https://www.youtube.com/channel/UC3lNFeJiTq6L3UWoz4g1e-A?sub_confirmation=1), [Twitter](https://twitter.com/udukikohh)
 
 ### Links
