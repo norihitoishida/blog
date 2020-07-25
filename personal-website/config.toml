@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://norihitoishida.github.io/"
 languageCode = "jp"
 title = "Norihito Ishida's personal website"
 theme = "hugo-coder"
+publishDir = "docs"
