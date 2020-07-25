@@ -11,7 +11,7 @@
 - Check on localhost : `hugo serve` (Web Server is available at http://localhost:1313/)
 - Build website : `hugo` (Built contents are published on personal-website/docs)
 - Git push : `git add * && git commit -m "msg" && git push`
-- Change directory : `cd hogehoge/norihitoishida.github.io` (personal-website/docs is remote repository of this)
+- Change directory : `cd hogehoge/blog/personal-website/docs`
 - Git push : `git add * && git commit -m "msg" && git push`
 - Update complete! (Website is available at https://norihitoishida.github.io/ )
 
