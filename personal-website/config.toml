@@ -13,17 +13,20 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Norihito Ishida"
-    info = "Machine Learning Engineer, Data Analyst"
+    info = "Machine Learning Engineer"
     description = "Norihito Ishida's personal website"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"
 
     favicon_32 = "images/favicon-32x32.png"
     favicon_16 = "images/favicon-16x16.png"
-
+    
+    hideFooter = false
     hidecredits = false
     hidecopyright = false
-
+    
+    since = 2020
+    
     rtl = false
 
     math = true
@@ -41,8 +44,14 @@ pygmentscodefencesguesssyntax = true
     weight = 2
     url = "https://twitter.com/norihitoishida/"
 
+
+
 # Menu links
 [[menu.main]]
     name = "About"
+    weight = 1
+    url = "/about/"
+[[menu.main]]
+    name = ""
     weight = 1
     url = "/about/"
