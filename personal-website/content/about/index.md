@@ -34,7 +34,7 @@ I'm a machine learning engineer, data analyst, and ex-sheet metal engineer.
 |2020/12/06|[MLモデルの実運用の際のプラクティス (Paleyes+, 2020)](https://github.com/norihitoishida/breadhouse-semi/tree/main/20201206_ml-deploying)|
 |2020/10/18|[XAI (Explainable Artificial Intelligence)](https://docs.google.com/presentation/d/1_sVNHfm-anUprLVklKcpbnx0GdamWZP3EvaTe64EMds/edit#slide=id.g944e2148f1_0_2289)|
 |2020/09/06|[Grounded Language Learning Fast and Slow (Hill+, 2020)](https://docs.google.com/presentation/d/1QW4XjsOW8bDtnkGU-ueCQrIAjSuLoZf9eQRNlStpSH4/edit#slide=id.g944e2148f1_0_2289)|
-|2020/07/19|The Neural Process Family|
+|2020/07/19|[The Neural Process Family](https://github.com/norihitoishida/neural-processes)|
 |2020/05/31|[ELECTRA (Clark+, 2020)](https://drive.google.com/file/d/1iov_bIT7z_1MUrO317a7rg6YHoDAM7Jv/view)|
 |2020/04/13|[分散表現, Attention, Self Attention, Transformer](https://qiita.com/norihitoishida/items/2fead107792b504eaccf)|
 |2020/04/07|[単語の分散表現(One-hot encode, word2vec, ELMo, BERT)](https://qiita.com/norihitoishida/items/85150cfacc1f75f552f3)|
