@@ -57,3 +57,4 @@ I'm a machine learning engineer, data analyst, and ex-sheet metal engineer.
 - [Github](https://github.com/norihitoishida/)
 - [Twitter](https://twitter.com/norihitoishida)
 - [Qiita](https://qiita.com/norihitoishida)
+- [お便り調整くん](https://norihitoishida.github.io/adjust-posts/)
