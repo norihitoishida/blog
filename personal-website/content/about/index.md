@@ -29,6 +29,8 @@ A machine learning engineer, data analyst, and ex-sheet metal engineer.
 ### Presentations
 |Date|Title|
 |---|---|
+|2021/07/16|[CVPR2021網羅的サーベイ](https://github.com/norihitoishida/breadhouse-semi/tree/main/20210716_cvpr2021survey)|
+|2021/06/27|[On Explainability of Graph Neural Networks via Subgraph Explorations (Yuan+, ICML2021)](https://github.com/norihitoishida/breadhouse-semi/blob/main/20210627_gnn-xai/paper01.md)|
 |2020/12/06|[MLモデルの実運用の際のプラクティス (Paleyes+, 2020)](https://github.com/norihitoishida/breadhouse-semi/tree/main/20201206_ml-deploying)|
 |2020/10/18|[工事中 XAI (Explainable Artificial Intelligence)](https://docs.google.com/presentation/d/1_sVNHfm-anUprLVklKcpbnx0GdamWZP3EvaTe64EMds/edit#slide=id.g944e2148f1_0_2289)|
 |2020/09/06|[工事中 Grounded Language Learning Fast and Slow (Hill+, 2020)](https://docs.google.com/presentation/d/1QW4XjsOW8bDtnkGU-ueCQrIAjSuLoZf9eQRNlStpSH4/edit#slide=id.g944e2148f1_0_2289)|
