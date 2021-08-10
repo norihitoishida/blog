@@ -1,6 +1,5 @@
 ### Norihito Ishida
-Hello!  
-I'm a machine learning engineer, data analyst, and ex-sheet metal engineer.
+A machine learning engineer, data analyst, and ex-sheet metal engineer.
 
 ### Interests:
 - Factory Automation
